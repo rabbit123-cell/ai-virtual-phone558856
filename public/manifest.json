@@ -10,26 +10,21 @@
         "fullscreen",
         "standalone"
     ],
-    "background_color": "#000000",
-    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
     "orientation": "portrait",
     "categories": [
         "entertainment",
         "social",
         "productivity"
     ],
+    
     "icons": [
-        {
-            "src": "/0AB05B86-E86F-41B4-9EE7-8C2C86FA.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "/0AB05B86-E86F-41B4-9EE7-8C2C86FA.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any"
-        }
-    ]
+  {
+    "src": "/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "purpose": "any"
+  }
+]
 }

@@ -20,13 +20,13 @@
     ],
     "icons": [
         {
-            "src": "/icon-192.png",
+            "src": "/0AB05B86-E86F-41B4-9EE7-8C2C86F.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/icon-512.png",
+            "src": "/0AB05B86-E86F-41B4-9EE7-8C2C86F.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"
